@@ -8,17 +8,9 @@ These professional development workshops will focus on the learning and building
 
 📝 Register Now, limited capacity 🙌🏼
 
- - ### Course 1: Introduction to GitHub
-##### 🗓 Online Workshop: 25 August’22, 5:00 pm-6.30 pm IST
-
-
-
- - ### Course 2: Collaborating with GitHub
-##### 🗓 Online Workshop: 26 August’22, 5:00 pm-6.30 pm IST
-
-
- - ### Course 3: Introduction to GitHub Classroom
-##### 🗓 Online Workshop: 1 September’22, 5:00 pm-6.30 pm IST
-
- - ### Course 4: Online IDEs and Review in GitHub Classroom
-##### 🗓 Online Workshop: 2 September’22, 5:00 pm-6.30 pm IST
+|📝 Course |📒Topic|📆Date/Time |
+|---------------|:--------------------------|------------------------------:|
+|Course 1|Introduction to GitHub|Online Workshop: 25 August’22, 5:00 pm-6.30 pm IST|
+|Course 2|Collaborating with GitHub|Online Workshop: 26 August’22, 5:00 pm-6.30 pm IST|
+|Course 3|Introduction to GitHub Classroom|Online Workshop: 1 September’22, 5:00 pm-6.30 pm IST|
+|Course 4|Online IDEs and Review in GitHub Classroom|Online Workshop: 2 September’22, 5:00 pm-6.30 pm IST|
