@@ -1,5 +1,5 @@
 # GitHub-Teacher-PD
-## GitHub Teacher PD Training series 👩‍🏫
+## GitHub Teacher PD Training series 👩‍🏫 for India 🇮🇳
 ### Learn how to teach with Git and GitHub Classroom.
 Teacher PD Training series is an introductory course to help prepare Educators 👩‍🏫 to teach with GitHub and learn the goodness of **GitHub Classroom**
 These professional development workshops will focus on the learning and building skills. By attending all the sessions and using GitHub and [GitHub Classroom](https://classroom.github.com/), teacher will get certificate.
