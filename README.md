@@ -14,3 +14,17 @@ These professional development workshops will focus on the learning and building
 |Course 2|Collaborating with GitHub|Online Workshop: 26 August’22, 5:00 pm-6.30 pm IST|
 |Course 3|Introduction to GitHub Classroom|Online Workshop: 1 September’22, 5:00 pm-6.30 pm IST|
 |Course 4|Online IDEs and Review in GitHub Classroom|Online Workshop: 2 September’22, 5:00 pm-6.30 pm IST|
+
+
+### Session details 
+**- Session 1: Intro to GitHub (for All)**
+Participants will experience an introduction to Git and GitHub through an interactive walkthrough. Participants will gain firsthand experience with creating repositories, branches and pull requests, and have time to explore GitHub with a chance to create an educator’s network.
+
+**- Session 2: Intro to GitHub Classroom (for Classroom Teachers)**
+Participants will experience an introduction to GitHub Classroom through an interactive walkthrough of the features and functions of GitHub Classroom. Teachers will collaborate with each other to create a Classroom rollout plan to use with their students.
+
+**- Session 3: Introduction to GitHub Classroom**
+This introductory training will begin with a comprehensive review of GitHub & GitHub Classroom, followed by a deep dive into IDEs and the creation of a rollout plan for how IDEs might be used with their teachers.
+
+**- Session 4: Coaches and Teachers GitHub Classroom Collaborative**
+Teachers and coaches alike will establish a mentor-mentee relationship in order to explore GitHub Classroom and specifically the use of IDEs during this session. Technologists who attended Session Three will implement their rollout plans with teachers during this session, and help teachers build confidence with the use of GitHub Classroom with their learners.
